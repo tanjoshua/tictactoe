@@ -5,7 +5,7 @@ Tic Tac Toe game for 2 human players. I made this game when I was learning pytho
 1. Ensure python3 is installed on computer
 2. Run
 ```
-python3 TicTacToe.py
+python3 tictactoe.py
 ```
 in file directory
 
